@@ -15,7 +15,7 @@
 
 
 <h2> Contáctame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'linkedin.com/in/jeanpierre-ramirez-garcia-32054b237'> <img align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a> 
+<a href = 'https://linkedin.com/in/jeanpierre-ramirez-garcia-32054b237'> <img align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a> 
 <a href = 'https://www.instagram.com/jeanpierre_ramirez/'> <img align= 'center' src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href = 'https://github.com/JeanpierreRG29'> <img align= 'center' src="https://skillicons.dev/icons?i=github"/></a>
   
