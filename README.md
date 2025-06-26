@@ -17,13 +17,13 @@
 <h2> Contáctame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'linkedin.com/in/jeanpierre-ramirez-garcia-32054b237'> <img align= 'center' src="https://skillicons.dev/icons?i=linkedin"/></a> 
 <a href = 'https://www.instagram.com/jeanpierre_ramirez/'> <img align= 'center' src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href = 'http://aditya664.me/'> <img align= 'center' src="https://skillicons.dev/icons?i=github"/></a>
+<a href = 'https://github.com/JeanpierreRG29'> <img align= 'center' src="https://skillicons.dev/icons?i=github"/></a>
   
 <br>
 <br>
   <br>
 
-| ![JeanpierreRG29's github stats](https://github-readme-stats.vercel.app/api?username=JeanpierreRG29&show_icons=true&theme=tokyonight) | ![JeanpierreRG29 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeanpierreRG29&theme=tokyonight) |
+| ![Jeanpierre Ramirez's github stats](https://github-readme-stats.vercel.app/api?username=JeanpierreRG29&show_icons=true&theme=tokyonight) | ![JeanpierreRG29 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeanpierreRG29&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanpierreRG29&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=JeanpierreRG29&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
